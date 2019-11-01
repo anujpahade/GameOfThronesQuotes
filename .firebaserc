@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "GoTQuotes": "quotereactor",
+    "default": "quotereactor"
+  }
+}
